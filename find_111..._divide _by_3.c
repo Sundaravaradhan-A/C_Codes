@@ -14,6 +14,7 @@ int main(){
 		for (int j=0;j<=i;j++){
             	printf("1");
             }
+           // printf(" %d ",i+1); // no of times loop runs
         printf("\n");    
 		break;
 		}
