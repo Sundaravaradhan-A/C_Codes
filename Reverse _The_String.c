@@ -1,4 +1,6 @@
-// Reverse the String but words should change.
+// Reverse the words in the sentence “have a nice day”. It should be 
+changed to “day nice a have”.
+
 
 #include<stdio.h>
 #include<ctype.h>
