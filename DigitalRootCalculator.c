@@ -1,3 +1,12 @@
+/*Digital Root Calculation
+Write a Java program that accepts a positive integer and repeatedly finds the sum of its digits until a single-digit number is obtained.
+Sample Input
+9876
+Sample Output
+Digital Root: 3
+*/
+
+
 import java.util.*;
 public class Main
 {
